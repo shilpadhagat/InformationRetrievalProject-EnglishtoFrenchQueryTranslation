@@ -23,5 +23,3 @@ Step 3. cd ..
 Step 4. You're set up and can run one of the four search files scripts.
 They are hardcoded to use the correct index. Run whatever queries you feel like running.
 ProjectQueries.rtf has the ones we used, and I threw in our excel document of results for good measure
-
-Happy Holidays!
